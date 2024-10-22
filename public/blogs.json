@@ -1,7 +1,7 @@
 [
     {
         "id": "001",
-        "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "cover": "https://img.freepik.com/free-psd/flat-design-fashion-lifestyle-facebook-cover_23-2150284270.jpg",
         "title": "Whispers of the Forgotten",
         "author": "Elena Storm",
         "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
@@ -15,7 +15,7 @@
     },
     {
         "id": "002",
-        "cover": "https://images.unsplash.com/photo-1516177373916-3a83c3d5a82b",
+        "cover": "https://img.freepik.com/free-psd/flat-design-nature-lifestyle-facebook-cover_23-2150614188.jpg",
         "title": "The Last Ember",
         "author": "Jasper Quinn",
         "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
@@ -29,7 +29,7 @@
     },
     {
         "id": "003",
-        "cover": "https://images.unsplash.com/photo-1501687011985-2c0b6b08f87e",
+        "cover": "https://img.freepik.com/free-psd/minimal-blog-website-youtube-cover_23-2149668508.jpg",
         "title": "Beneath the Stars",
         "author": "Sofia Hale",
         "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
@@ -43,7 +43,7 @@
     },
     {
         "id": "004",
-        "cover": "https://images.unsplash.com/photo-1529608570006-39f06e72de49",
+        "cover": "https://img.freepik.com/free-psd/flat-design-science-template_23-2149847258.jpg",
         "title": "Echoes of Time",
         "author": "Liam Carter",
         "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
@@ -57,7 +57,7 @@
     },
     {
         "id": "005",
-        "cover": "https://images.unsplash.com/photo-1512291777230-65d8a41f8f0b",
+        "cover": "https://img.freepik.com/free-psd/lifestyle-concept-youtube-cover-template_23-2150303302.jpg",
         "title": "Chasing Shadows",
         "author": "Maya Rivers",
         "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
