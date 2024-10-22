@@ -1,0 +1,72 @@
+[
+    {
+        "id": "001",
+        "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "title": "Whispers of the Forgotten",
+        "author": "Elena Storm",
+        "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
+        "posted_date": "2024-01-15",
+        "reading_time": 4,
+        "hashtags": [
+            "#Fantasy",
+            "#Adventure",
+            "#Mystery"
+        ]
+    },
+    {
+        "id": "002",
+        "cover": "https://images.unsplash.com/photo-1516177373916-3a83c3d5a82b",
+        "title": "The Last Ember",
+        "author": "Jasper Quinn",
+        "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+        "posted_date": "2024-02-20",
+        "reading_time": 6,
+        "hashtags": [
+            "#SciFi",
+            "#Dystopia",
+            "#Action"
+        ]
+    },
+    {
+        "id": "003",
+        "cover": "https://images.unsplash.com/photo-1501687011985-2c0b6b08f87e",
+        "title": "Beneath the Stars",
+        "author": "Sofia Hale",
+        "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": 5,
+        "hashtags": [
+            "#Romance",
+            "#Drama",
+            "#YoungAdult"
+        ]
+    },
+    {
+        "id": "004",
+        "cover": "https://images.unsplash.com/photo-1529608570006-39f06e72de49",
+        "title": "Echoes of Time",
+        "author": "Liam Carter",
+        "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
+        "posted_date": "2024-04-05",
+        "reading_time": 7,
+        "hashtags": [
+            "#Historical",
+            "#Fiction",
+            "#TimeTravel"
+        ]
+    },
+    {
+        "id": "005",
+        "cover": "https://images.unsplash.com/photo-1512291777230-65d8a41f8f0b",
+        "title": "Chasing Shadows",
+        "author": "Maya Rivers",
+        "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
+        "posted_date": "2024-05-12",
+        "reading_time": 8,
+        "hashtags": [
+            "#Thriller",
+            "#Suspense",
+            "#Crime"
+        ]
+    }
+]
